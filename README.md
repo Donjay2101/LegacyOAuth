@@ -1,4 +1,5 @@
 # LegacyOAuth
+<documentation src="documentation.md" />
 repository to support OAuth for applications, which are using .Net framework 3.0.
 
 oAuth  is not supported below .net framework 4.5. I tried to create this library so that it be supported from .net framework 3.0 and above.
